@@ -1,16 +1,16 @@
 # SB-YT-Points-System
 Streamer.Bot YouTube Basic Points System
 
-## TUTORIAL
+# TUTORIAL
 (coming soon to a YouTube near you)
 
 
-## IMPORT
+# IMPORT
 
 Get the import code from the file:
 **YT Points System Streamerbot.txt**
 
-## INSTALLATION
+# INSTALLATION
 In Streamerbot select the Import button from the top left menu.
 Copy the code from the text file and paste all the text into the Import String field.
 There should be 13 actions and 5 Commands
@@ -18,9 +18,9 @@ There should be 13 actions and 5 Commands
 
 
 
-## CONFIGURATION
+# CONFIGURATION
 
-#### C# Compiler
+## C# Compiler
 Make sure to add System.Core.dll to the C# compiler within Settings > C# Compiler > Common References > Right-Click > Add reference from file...
 
 ![image](https://user-images.githubusercontent.com/107263697/220821729-181e6c95-874d-4dbe-a19a-4ed0c6afee96.png)
@@ -28,7 +28,7 @@ Make sure to add System.Core.dll to the C# compiler within Settings > C# Compile
 
 This will help make sure all the C# code found in the sub-actions compiles.
 
-#### Present Viewers
+## Present Viewers
 Set "Action - Assign to Present Viewers Event" to the "Present Viewers" event found in Platforms > YouTube > Events.
 ![image](https://user-images.githubusercontent.com/107263697/220809514-31515e14-4c8d-4e64-aa75-f1fcaab84920.png)
 
@@ -37,7 +37,7 @@ To adjust the points given every minute change the %pointsPerMinute% argument in
 ![image](https://user-images.githubusercontent.com/107263697/220811414-303ff453-cd39-4084-9f6f-d70ed431d07c.png)
 
 
-#### First Words
+## First Words
 Set "Action - Assign to First Words Event - First Words" to the "First Words" event found in Platforms > YouTube > Events.
 ![image](https://user-images.githubusercontent.com/107263697/220811960-9f2b8062-347f-4dac-9723-3d7ed356e862.png)
 
@@ -55,7 +55,7 @@ In the action "Action - First Words Give Points for NEW Chatters":
 - Update the points that brand new chatters receive one time for chatting in your stream for the first time ever.
 ![image](https://user-images.githubusercontent.com/107263697/220813366-a13ad423-deb3-406a-8c5b-3fde275bd29f.png)
 
-#### Points Name and Command
+## Points Name and Command
 The !setpointsname command sets the name of your loyalty points to whatever you want to call it. This is the format: 
 
 ```!setpointsname[space]["name"]```
@@ -79,7 +79,7 @@ In the !points command:
 
 
 
-#### Add and Set Points Commands
+## Add and Set Points Commands
 The !addpoints command adds points to the viewer listed. This is the format: 
 
 ```[command][space][username]+[# of points to add]```
@@ -120,7 +120,7 @@ PLEASE NOTE! - Due to the fact that YouTube does not require unique usernames, t
 
 ADD A PICTURE HERE
 
-#### Shout-Out
+## Shout-Out
 The !so command puts a link in chat for the user who was shouted-out. This is the format: 
 
 ```!so [username]```
@@ -134,17 +134,17 @@ In the !so command:
 ![image](https://user-images.githubusercontent.com/107263697/220821194-fad9b840-4fb3-41ad-9b1f-43b2cf132893.png)
 ![image](https://user-images.githubusercontent.com/107263697/220821375-de3e650d-2215-48a3-9382-1e38d2fb3725.png)
 
-#### Points Redeem
+## Points Redeem
 
 
 
 
-## EXAMPLE USE
+# EXAMPLE USE
 
 
 
 
-## CONTRIBUTORS
+# CONTRIBUTORS
 
 
 
