@@ -159,6 +159,9 @@ For each points redemption command you create do the following:
 (Coming soon, maybe)
 
 
+# Wait! I already have the other system that uses text files!
+I am working on a way to transfer points balances over if you want to do that. Keep in mind that you will also have to update all your actions to use the new system.
+
 
 
 
