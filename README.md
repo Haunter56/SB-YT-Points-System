@@ -115,6 +115,10 @@ PLEASE NOTE! - Due to the fact that YouTube does not require unique usernames, t
 
 ![image](https://user-images.githubusercontent.com/107263697/221099816-2b50c1b1-a2a8-4e2f-bd95-f54c83042fae.png)
 
+Also, if you are trying to add/set points for a brand new user, you may have to click "Save" in Streamer.Bot if it says they don't exist yet.
+
+![image](https://user-images.githubusercontent.com/107263697/221103905-e055b16b-88e5-4588-bf98-d54b4439068c.png)
+
 ## Shout-Out
 The !so command puts a link in chat for the user who was shouted-out. This is the format: 
 
