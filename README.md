@@ -13,7 +13,7 @@ https://github.com/Haunter56/SB-YT-Points-System/blob/main/YT%20Points%20System%
 # INSTALLATION
 In Streamerbot select the Import button from the top left menu.
 Copy the code from the text file and paste all the text into the Import String field.
-There should be 13 actions and 5 Commands
+There should be 14 actions and 5 Commands
 ![image](https://user-images.githubusercontent.com/107263697/221098351-20c8343f-77eb-404a-886a-d588d20bb0ba.png)
 
 
