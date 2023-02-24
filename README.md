@@ -13,8 +13,8 @@ Get the import code from the file:
 # INSTALLATION
 In Streamerbot select the Import button from the top left menu.
 Copy the code from the text file and paste all the text into the Import String field.
-There should be 13 actions and 5 Commands
-![image](https://user-images.githubusercontent.com/107263697/220808561-e6edda42-d1d2-4ffa-9d91-31bc96f7ddfa.png)
+There should be 14 actions and 5 Commands
+![image](https://user-images.githubusercontent.com/107263697/221098351-20c8343f-77eb-404a-886a-d588d20bb0ba.png)
 
 
 
@@ -34,8 +34,7 @@ Set "Action - Assign to Present Viewers Event" to the "Present Viewers" event fo
 
 This will give viewers points every MINUTE. The slider is meant to select how many minutes of inactivity to no longer consider a chatter as "active". For example, 5 minutes means that if the Present Viewers event runs and the chatter hasn't been active for 5 mins 12 secs, then the chatter will no longer be receiving points every minute.
 To adjust the points given every minute change the %pointsPerMinute% argument in the action to the number value you want.
-![image](https://user-images.githubusercontent.com/107263697/220811414-303ff453-cd39-4084-9f6f-d70ed431d07c.png)
-
+![image](https://user-images.githubusercontent.com/107263697/221099103-f24f1754-88a2-4ea4-94e8-6af0fab0401e.png)
 
 ## First Words
 Set "Action - Assign to First Words Event - First Words" to the "First Words" event found in Platforms > YouTube > Events.
@@ -46,14 +45,10 @@ In the action "Action - Assign to First Words Event - First Words":
 ![image](https://user-images.githubusercontent.com/107263697/220813034-df2c9299-fec8-4813-b16f-d8976e7aa9bc.png)
 - Update/Add any user IDs that you don't want triggering the "First Words" event.
 ![image](https://user-images.githubusercontent.com/107263697/220813086-ee81be5b-a8d8-4b1d-ae7f-1f9bce7468cb.png)
-- If you want brand new chatters to get some extra bonus points for being in your stream for the first time ever you can keep the below sub-action. If you don't want brand new chatters to get bonus points you can delete the following sub-action.
-![image](https://user-images.githubusercontent.com/107263697/220812389-54c0e9f7-a99b-42e4-a41b-888f888a33d2.png)
-- Update the poins every chatter receives for chatting the first time each stream.
-![image](https://user-images.githubusercontent.com/107263697/220813221-0a7684ef-b071-4af7-a9fa-c126df4a493a.png)
+- Update the points every chatter receives for chatting the first time each stream.
+![image](https://user-images.githubusercontent.com/107263697/221099248-4aee2acd-5d93-4a34-97c3-3eb8d72040f5.png)
 
-In the action "Action - First Words Give Points for NEW Chatters":
-- Update the points that brand new chatters receive one time for chatting in your stream for the first time ever.
-![image](https://user-images.githubusercontent.com/107263697/220813366-a13ad423-deb3-406a-8c5b-3fde275bd29f.png)
+
 
 ## Points Name and Command
 The !setpointsname command sets the name of your loyalty points to whatever you want to call it. This is the format: 
@@ -118,7 +113,7 @@ In the !setpoints command:
 
 PLEASE NOTE! - Due to the fact that YouTube does not require unique usernames, there is a small chance that two viewers with the same username are in your viewer records. If this happens the bot should send a message that there are duplicate usernames. They will have to change their username or get their points added another way.
 
-ADD A PICTURE HERE
+![image](https://user-images.githubusercontent.com/107263697/221099816-2b50c1b1-a2a8-4e2f-bd95-f54c83042fae.png)
 
 ## Shout-Out
 The !so command puts a link in chat for the user who was shouted-out. This is the format: 
@@ -135,16 +130,32 @@ In the !so command:
 ![image](https://user-images.githubusercontent.com/107263697/220821375-de3e650d-2215-48a3-9382-1e38d2fb3725.png)
 
 ## Points Redeem
+For each points redemption command you create do the following:
+- Duplicate the action "Command - Sample Redeem Something YT (duplicate this)"
+- Rename the action to whatever you like
+![image](https://user-images.githubusercontent.com/107263697/221100623-69c489ca-becd-413c-9ba4-e3e58c602d79.png)
+
+- Update [this is your redeem name]
+
+![image](https://user-images.githubusercontent.com/107263697/221100767-26483e7e-886d-4a02-89ea-6a2bf0ae3a33.png)
+
+- Add sub-action/s to the action
+
+![image](https://user-images.githubusercontent.com/107263697/221100940-602c39d5-1844-4d7d-a0f7-839fa756e97e.png)
+
+- Create a command for the new action and link the new action to the new command
+
+![image](https://user-images.githubusercontent.com/107263697/221101077-83985431-03d1-44ca-9c61-57e3769296cd.png)
+
 
 
 
 
 # EXAMPLE USE
+(Coming soon, maybe)
 
 
 
-
-# CONTRIBUTORS
 
 
 
