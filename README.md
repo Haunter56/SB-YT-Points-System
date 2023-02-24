@@ -135,7 +135,7 @@ For each points redemption command you create do the following:
 - Rename the action to whatever you like
 ![image](https://user-images.githubusercontent.com/107263697/221100623-69c489ca-becd-413c-9ba4-e3e58c602d79.png)
 
-- Update [this is your redeem name]
+- Update [this is your redeem name] in the "Set argument %redeemName%..." sub-action
 
 ![image](https://user-images.githubusercontent.com/107263697/221100767-26483e7e-886d-4a02-89ea-6a2bf0ae3a33.png)
 
