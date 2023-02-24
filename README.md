@@ -141,11 +141,11 @@ For each points redemption command you create do the following:
 
 - Update [this is your redeem name] in the "Set argument %redeemName%..." sub-action
 
-![image](https://user-images.githubusercontent.com/107263697/221100767-26483e7e-886d-4a02-89ea-6a2bf0ae3a33.png)
+![image](https://user-images.githubusercontent.com/107263697/221109770-dee3fdeb-2200-40eb-8ede-5490c576c240.png)
 
 - Add sub-action/s to the action
 
-![image](https://user-images.githubusercontent.com/107263697/221100940-602c39d5-1844-4d7d-a0f7-839fa756e97e.png)
+![image](https://user-images.githubusercontent.com/107263697/221109575-7e457373-86b2-4a3d-8c53-cd83b28fd0b5.png)
 
 - Create a command for the new action and link the new action to the new command
 
