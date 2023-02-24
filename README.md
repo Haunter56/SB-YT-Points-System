@@ -8,7 +8,7 @@ Streamer.Bot YouTube Basic Points System
 # IMPORT
 
 Get the import code from the file:
-**YT Points System Streamerbot.txt**
+https://github.com/Haunter56/SB-YT-Points-System/blob/main/YT%20Points%20System%20StreamerBot.txt
 
 # INSTALLATION
 In Streamerbot select the Import button from the top left menu.
