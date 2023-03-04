@@ -97,11 +97,11 @@ The !setpoints command adds points to the viewer listed. This is the format:
 
 ```[command][space][username]=[# of points to set]```
 
-``` !setpoints Haunter+100```
+``` !setpoints Haunter=100```
 
 You can also use the @ symbol if you are on desktop
 
-``` !setpoints @Haunter+100```
+``` !setpoints @Haunter=100```
 
 In the !setpoints command:
 - Check the "enabled" box
