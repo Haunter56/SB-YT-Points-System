@@ -111,7 +111,10 @@ In the !setpoints command:
 ![image](https://user-images.githubusercontent.com/107263697/220820362-031a96ba-717f-4f75-89f9-8434d2892a4b.png)
 ![image](https://user-images.githubusercontent.com/107263697/220820541-c7ceac6a-633f-47f8-acb6-0bbba13834ee.png)
 
-PLEASE NOTE! - Due to the fact that YouTube does not require unique usernames, there is a small chance that two viewers with the same username are in your viewer records. If this happens the bot should send a message that there are duplicate usernames. They will have to change their username or get their points added another way.
+PLEASE NOTE! - If you get the message that a user doesn't exist, you may need to click "Save" in Streamer.Bot so that it updates the users.dat file.
+
+Also... Due to the fact that YouTube does not require unique usernames, there is a small chance that two viewers with the same username are in your viewer records. If this happens the bot should send a message that there are duplicate usernames. They will have to change their username or get their points added another way.
+
 
 ![image](https://user-images.githubusercontent.com/107263697/221099816-2b50c1b1-a2a8-4e2f-bd95-f54c83042fae.png)
 
